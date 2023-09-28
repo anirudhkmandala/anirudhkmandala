@@ -18,7 +18,7 @@ I'm Anirudh Kumar Mandala, a passionate software developer with a keen interest 
 
 If you enjoy reading, you can check out some of my recent blog posts on AI and the world's ever revolutionizing technology !
 
-- The Bionic Pnacreas - https://www.linkedin.com/posts/anirudh-kumar-mandala-98ab69215_a-bionic-pancreas-could-solve-one-of-the-activity-7078718423681167362-s0hL?utm_source=share&utm_medium=member_desktop
+- The Bionic Pancreas - https://www.linkedin.com/posts/anirudh-kumar-mandala-98ab69215_a-bionic-pancreas-could-solve-one-of-the-activity-7078718423681167362-s0hL?utm_source=share&utm_medium=member_desktop
 - Revolutionizing Healthcare: The Synergy of Bioinformatics and AI - https://www.linkedin.com/posts/anirudh-kumar-mandala-98ab69215_ai-future-data-activity-7078244509687427072-VJTn?utm_source=share&utm_medium=member_desktop
 - Web3 unleashes Tech innovation! - https://www.linkedin.com/posts/anirudh-kumar-mandala-98ab69215_activity-7071088843923337216-CBry?utm_source=share&utm_medium=member_desktop
 - ...
